@@ -1,16 +1,16 @@
 <h1>🐤 piko </h1>
 <p>
   <a href="">
-    <img alt="npm version" src="https://badgen.net/github/commits/ahsanu123/piko">
+    <img alt="npm version" src="https://badgen.net/github/commits/ahsanu123/keling">
   </a>
   <a href="">
-    <img alt="npm" src="https://badgen.net/github/contributors/ahsanu123/piko">
+    <img alt="npm" src="https://badgen.net/github/contributors/ahsanu123/keling">
   </a>
   <a href="">
-    <img alt="npm" src="https://badgen.net/github/branches/ahsanu123/piko">
+    <img alt="npm" src="https://badgen.net/github/branches/ahsanu123/keling">
   </a>
   <a href="https://github.com/ahsanu123/piko/blob/main/LICENSE">
-    <img alt="licence" src="https://badgen.net/github/license/ahsanu123/piko">
+    <img alt="licence" src="https://badgen.net/github/license/ahsanu123/keling">
   </a>
 </p>
 

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "wch")(type "Legacy")(uri "D:/project/personalProject/keling/weling/hardware/lib/wch.lib")(options "")(descr ""))
+)
